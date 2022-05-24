@@ -1,1 +1,3 @@
-# Baekjoon
+# problem-solving
+
+Problems from acmicpc
